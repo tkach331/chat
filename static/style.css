@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.robo{
+    color: white;
+    text-align: center;
+    background-color: blue;
+    position: relative;
+    height: 5 rem;
+    width: 100%;
+}
+.messages{
+    color: white;
+    background-color: blue;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 1rem;
+    height: 2rem;
+    width: max-content;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+
+.write{
+    position: fixed;
+    height: 10%;
+    width: 100%;
+    top: 90%;
+
+}
+
+.wwid{
+    width: 79%;
+    height: 30px;
+}
+
+.submit{
+    width: 20%;
+    background-color: blue;
+    color: white;
+    height: 30px;
+    margin: 0;
+    border: 0px;
+}
